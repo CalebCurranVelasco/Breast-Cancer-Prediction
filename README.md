@@ -1,6 +1,6 @@
 # Breast Cancer Prediction Application using Linear Regression and Streamlit
 
-This project implements a machine learning model using linear regression to predict whether a breast mass is benign or malignant based on cell nuclei measurements. The graphical user interface (GUI) is built using Streamlit, allowing users to modify cell nuclei measurements and observe real-time changes in the model's predictions. The GUI also features a radar chart to visualize the input data effectively.
+This project implements a machine learning model using linear regression to predict whether a breast mass is benign or malignant based on cell nuclei measurements to assist medical professionals in diagnosing breast cancer. The graphical user interface (GUI) is built using Streamlit, allowing users to modify cell nuclei measurements and observe real-time changes in the model's predicted diagnosis. The GUI also features a radar chart to visualize the input data effectively and displays the probability of being benign or malignant.
 
 
 ## Streamlit App
